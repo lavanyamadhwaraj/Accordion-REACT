@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    justify-content: baseline;
+    box-sizing:border-box;
+    padding: 20px;
+}
+.answers{
+ background-color: rgb(218, 221, 224);
+ padding: 10px;
+ padding-left: 50px;
+}
